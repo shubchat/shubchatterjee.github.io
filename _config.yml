@@ -1,8 +1,14 @@
-title: John Doe # your name (or website title) here
+title: Shubh Chatterjee # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
+  
+  Shubh is a senior data science professional with 8+ years of experience in predictive modeling and data-driven problem-solving.<br><br>
+  He has solved business problems across Industries (Banking, Healthcare, Digital offers) using machine learning techniques and data-driven insights.
+   His key areas of expertise are:<br><br>
+
+1)Structured/tabular data problems using traditional machine learning techniques
+2)Solving structured and unstructured data problems using advanced machine learning
+3)Productionalizing machine learning model predictions to drive business outcomes
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
