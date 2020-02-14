@@ -5,17 +5,17 @@
 ### Machine learning projects
 
 [Using Deep learning to identify natural disasters from satellite images](https://medium.com/hackernoon/using-deep-learning-to-identify-natural-disasters-from-satellite-images-94815a7514f4)
-<img src="https://miro.medium.com/max/2967/1*tVnskr1SVmQXho98tDCeBw.jpeg" width=200px height=200px/>
+<img src="https://miro.medium.com/max/2967/1*tVnskr1SVmQXho98tDCeBw.jpeg" width="200" height="200"/>
 
 ---
 
 [An open free recommendation portal for reading short stories](https://github.com/shubchat/Readnet)
-<img src="https://github.com/shubchat/Readnet/raw/master/usage_demo.gif" width=200px height=200px/>
+<img src="https://github.com/shubchat/Readnet/raw/master/usage_demo.gif" width="200" height="200"/>
 
 ---
 
 [Development of a fun quiz using basic Information retrieval to test how well do you know whats happening in the world](https://github.com/shubchat/News_quiz)
-<img src="https://www.randwick.nsw.gov.au/__data/assets/image/0007/14875/Latest-News.jpg" width=200px height=200px/>
+<img src="https://www.randwick.nsw.gov.au/__data/assets/image/0007/14875/Latest-News.jpg" width="200" height="200"/>
 
 ---
 
